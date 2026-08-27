@@ -1,0 +1,16 @@
+C:\Users\cozmo\source\repos\MusorClean\MusorClean\bin\Debug\net10.0-windows\MusorClean.exe
+C:\Users\cozmo\source\repos\MusorClean\MusorClean\bin\Debug\net10.0-windows\MusorClean.deps.json
+C:\Users\cozmo\source\repos\MusorClean\MusorClean\bin\Debug\net10.0-windows\MusorClean.runtimeconfig.json
+C:\Users\cozmo\source\repos\MusorClean\MusorClean\bin\Debug\net10.0-windows\MusorClean.dll
+C:\Users\cozmo\source\repos\MusorClean\MusorClean\bin\Debug\net10.0-windows\MusorClean.pdb
+C:\Users\cozmo\source\repos\MusorClean\MusorClean\obj\Debug\net10.0-windows\MusorClean.MusorClean.resources
+C:\Users\cozmo\source\repos\MusorClean\MusorClean\obj\Debug\net10.0-windows\MusorClean.csproj.GenerateResource.cache
+C:\Users\cozmo\source\repos\MusorClean\MusorClean\obj\Debug\net10.0-windows\MusorClean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cozmo\source\repos\MusorClean\MusorClean\obj\Debug\net10.0-windows\MusorClean.AssemblyInfoInputs.cache
+C:\Users\cozmo\source\repos\MusorClean\MusorClean\obj\Debug\net10.0-windows\MusorClean.AssemblyInfo.cs
+C:\Users\cozmo\source\repos\MusorClean\MusorClean\obj\Debug\net10.0-windows\MusorClean.csproj.CoreCompileInputs.cache
+C:\Users\cozmo\source\repos\MusorClean\MusorClean\obj\Debug\net10.0-windows\MusorClean.dll
+C:\Users\cozmo\source\repos\MusorClean\MusorClean\obj\Debug\net10.0-windows\refint\MusorClean.dll
+C:\Users\cozmo\source\repos\MusorClean\MusorClean\obj\Debug\net10.0-windows\MusorClean.pdb
+C:\Users\cozmo\source\repos\MusorClean\MusorClean\obj\Debug\net10.0-windows\MusorClean.genruntimeconfig.cache
+C:\Users\cozmo\source\repos\MusorClean\MusorClean\obj\Debug\net10.0-windows\ref\MusorClean.dll
